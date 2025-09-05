@@ -51,11 +51,11 @@ sudo dnf install -y policycoreutils-python-utils lvm2 xfsprogs autofs firewalld 
 
 Salve o script neste repo como rhcsa_coach.sh e torne-o executável:
 ```bash
-chmod +x rhcsa_coach.sh
+chmod +x rhcsa-coach.sh
 ```
 Instale:
 ```bash
-./rhcsa_coach.sh --install
+./rhcsa-coach.sh --install
 ```
 >**Abra um novo terminal (ou source ~/.bashrc) para ativar o hook.**
 
@@ -75,10 +75,10 @@ Instale:
 ### 🧰 Comandos Principais
 Pelo script
 ```bash
-./rhcsa_coach.sh --install       # instala, cria serviço e ativa
-./rhcsa_coach.sh --uninstall     # remove serviço, binário e diretório
-./rhcsa_coach.sh --reset         # zera progresso (state) e feedbacks
-./rhcsa_coach.sh --deep-reset    # idem + zera cmd.log (histórico)
+./rhcsa-coach.sh --install       # instala, cria serviço e ativa
+./rhcsa-coach.sh --uninstall     # remove serviço, binário e diretório
+./rhcsa-coach.sh --reset         # zera progresso (state) e feedbacks
+./rhcsa-coach.sh --deep-reset    # idem + zera cmd.log (histórico)
 ```
 Pelo binário (instalado em ~/.local/bin)
 ```bash
