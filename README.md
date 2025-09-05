@@ -34,6 +34,7 @@ Perfeito para estudo individual e demonstrações em aula.
 - ⚡ **Feedback imediato:** mostra no próximo prompt e registra em log.
 - 🧩 **Extensível:** adicione seus próprios `check_*` e *triggers* por regex.
 - 🔁 **Reset/Deep Reset:** recomece o laboratório quando quiser.
+- 📘 [Acesse aqui o Questionário completo de preparação RHCSA EX200](https://github.com/viniciushammett/RHCSA-Coach/blob/main/Questionario.md)
 
 ---
 
