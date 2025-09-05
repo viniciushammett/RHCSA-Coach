@@ -1,4 +1,4 @@
-# RHCSA Coach — Validador em Background para EX200 (RHEL 9.3)
+<img width="1536" height="1024" alt="ChatGPT Image 5 de set  de 2025, 00_21_48" src="https://github.com/user-attachments/assets/279a94a5-5902-40d2-b9c1-2cc571013715" />
 
 [![Shell](https://img.shields.io/badge/shell-bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 [![RHEL](https://img.shields.io/badge/RHEL-9.3-red.svg)](https://www.redhat.com/)
