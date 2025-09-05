@@ -8,7 +8,7 @@
 > “Um coach de terminal que te acompanha em background e valida, em tempo real, as tarefas do RHCSA EX200.”
 
 O **RHCSA Coach** instala um serviço **systemd (modo usuário)** e um **hook de Bash** que monitora os comandos executados, reconhece ações relevantes (LVM, SELinux, firewalld, nmcli, podman, quotas, etc.) e dispara **checagens de estado**. A cada progresso, você recebe feedback **imediato** no prompt (✅/❌ + dica prática).  
-Perfeito para estudo individual e demonstrações em aula.
+Perfeito para estudo individual.
 
 ---
 
